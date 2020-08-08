@@ -14,7 +14,7 @@ Hyperparameters play a crucial role in optimizing the code in terms of training,
 It is used to segment an image by using techniques like pooling and sampling, computing intensity of each pixel in the form of a matrix.
 
 ## Results
-• Accurate semantic segmentation of images using multiple models
-• Improved object detection results as compared to previously used models
-• Successful linking of class labels with semantically segmented image
+* Accurate semantic segmentation of images using multiple models
+* Improved object detection results as compared to previously used models
+* Successful linking of class labels with semantically segmented image
 
