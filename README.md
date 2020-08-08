@@ -9,5 +9,3 @@ Semantic Segmentation is responsible for the mapping of each pixel corresponding
 
 ## Hyperparameter Tuning
 Hyperparameters play a crucial role in optimizing the code in terms of training, computation-wise and memory-wise. So, there is a need to have a hands-on-knowledge on hyperparameter tuning like batch-size, learning rate, number of epochs etc.
-
-
